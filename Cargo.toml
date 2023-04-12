@@ -2,6 +2,11 @@
 name = "versian"
 version = "0.1.0"
 edition = "2021"
+authors = ["Felix Päßler <fp@ekf.com>"]
+description = "Parse and compare Debian package versions."
+readme = "README.md"
+repository = "https://github.com/ADefiniteDescription/versian"
+license-file = "LICENSE"
 
 [dependencies]
 more-asserts = "0.3.1"
